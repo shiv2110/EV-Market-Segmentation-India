@@ -1,0 +1,14 @@
+Car,Style,BootSpace,Battery Capacity(kWh),Acceleration Time(sec),TopSpeed(km/h),Range(km),Max Power(kW),Max Torque(Nm),Charging T(h),Drive Type,Price(Lh)
+Tata Nexon EV,Compact SUV,350 L,30.2,9.9,180,312,96,245,9,FWD,17
+Tata Tigor EV,Subcompact Sedan,316 L,26.0,5.7,120,306,55,170,9,FWD,14
+MG ZS EV,Compact SUV,448 L,44.5,8.5,120,340,174,353,8,FWD,25
+Hyundai Kona Electric,Compact SUV,332 L,39.2,9.7,155,452,103,395,7,FWD,24
+Jaguar I-Pace,Premium Midsize Sedan,656 L,90.0,4.8,200,470,294,696,13,AWD,112
+Audi E-Tron GT,Premium Coupe,405 L,93.4,4.1,245,500,523,630,9,AWD,179
+BYD E6,Subcompact MPV,580 L,71.7,8.0,160,415,94,180,12,FWD,29
+Mercedes Benz EQC,Compact SUV,500 L,80.0,5.1,180,414,304,760,21,AWD,100
+BMW iX,Premium Fullsize SUV,500 L,71.0,4.6,200,400,322,630,7,AWD,118
+Porsche Taycan,Premium Sports Sedan,446 L,93.4,5.4,240,390,483,650,9,RWD,200
+Audi E-Tron,Compact SUV,660 L,95.0,5.7,200,484,300,664,9,AWD,123
+Mahindra XUV 400,Compact SUV,378 L,39.4,8.3,160,456,148,310,13,FWD,17
+Tata Tiago EV,Hatchback,240 L,24.0,6.2,120,315,74,114,7,FWD,10
